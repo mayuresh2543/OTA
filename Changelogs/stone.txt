@@ -1,1 +1,20 @@
-Placeholder
+Changelog 20250608
+LineageOS 22.2
+
+* June Security Patch
+* Add BCR
+* Launcher3: Add double tap to sleep
+* Launcher3: Move clear all button next to Screenshots in recents
+* Add and improve OTA (fr this time)
+* Update device fingerprints
+* Set 60hz on aod
+* Sync with latest sources
+
+Changelog 20250529
+LineageOS 22.2
+
+* Initial build
+* May Security Patch
+* Add OTA
+* Enable LTO Optimizations
+* Build with source built oss kernel 
