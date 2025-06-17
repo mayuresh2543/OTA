@@ -1,1 +1,16 @@
-placeholder
+Changelog 20250617
+Infinity-X 2.9
+
+* Initial build
+* June Security Patch
+* Add OTA
+* Add Viper4Android
+* Add BCR
+* Enable LTO Optimizations
+* Build with source built oss kernel 
+* Limit screen recording to 60 fps
+* Recuce log spams
+* Optimize native executables for Cortex-A76 CPU
+* Improve sound quality
+* Update Blobs from OS2.0.3.0.UMQMIXM
+* Limit aod to 60hz
