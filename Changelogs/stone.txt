@@ -1,3 +1,15 @@
+Changelog 20250621
+LineageOS 22.2
+
+* Add Sony Dolby Atmos and Viper4Android
+* Switch to newer darkmoon base thanks to kami(which also fixed ir and custom recovery)
+* limit screen recording to 60 fps
+* Update Blobs from OS2.0.3.0.UMQMIXM
+* Recuce log spams
+* Optimize native executables for Cortex-A76 CPU
+* Improve sound quality
+* Sync with latest sources
+
 Changelog 20250608
 LineageOS 22.2
 
