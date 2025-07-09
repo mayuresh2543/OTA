@@ -1,3 +1,18 @@
+Changelog 20250709
+Infinity-X 2.9
+
+* July Security Patch
+* Add Sony Dolby Atmos
+* Rebase on new kami tree and kernel
+* Add Datura Firewall
+* Switch to lineage libperfmgr
+* Enable blur
+* Fixed ir
+* Address some denials
+* Revert back to SkiaGL to fix video playback in some apps
+* Switch to github releases
+* Sync with latest sources
+
 Changelog 20250617
 Infinity-X 2.9
 
