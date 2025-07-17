@@ -1,1 +1,8 @@
-placeholder
+Changelog 20250717
+Infinity-X 3.0
+
+* Initial Android 16 release
+* July Security Patch
+* Dropped Dolby for now
+* Report any bugs you faced with logs
+* Synced with latest sources
