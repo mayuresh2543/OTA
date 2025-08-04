@@ -1,3 +1,14 @@
+Changelog 20250804
+Infinity-X 3.0
+
+* Add back Sony Dolby
+* Enable UFFD GC (thanks ishaan)
+* NFC works now
+* Kernel: Enable CONFIG_WIREGUARD
+* Kernel: Enable CONFIG_USERFAULTFD
+* Kernel: Move 'struct sched_param' out of uapi, to work around glibc/musl breakage
+* Sync with latest sources
+
 Changelog 20250717
 Infinity-X 3.0
 
