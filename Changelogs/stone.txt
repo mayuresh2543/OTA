@@ -1,3 +1,11 @@
+Changelog 20250809
+Infinity-X 3.1
+
+* August Security Patch
+* Stop using SkiaVK (fixes distorted colors in TikTok).
+* Increase vibration duration from 20ms to 25ms
+* Synced with latest sources
+
 Changelog 20250804
 Infinity-X 3.0
 
@@ -7,7 +15,7 @@ Infinity-X 3.0
 * Kernel: Enable CONFIG_WIREGUARD
 * Kernel: Enable CONFIG_USERFAULTFD
 * Kernel: Move 'struct sched_param' out of uapi, to work around glibc/musl breakage
-* Sync with latest sources
+* Synced with latest sources
 
 Changelog 20250717
 Infinity-X 3.0
