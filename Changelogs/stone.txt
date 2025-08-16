@@ -1,3 +1,19 @@
+Changelog 20250816
+LineageOS 22.2
+
+* August Security Patch
+* Update blobs from OS2.0.4.0.UMQEUXM
+* Enable UFFD GC
+* Increase vibration duration from 20ms to 25ms
+* Drop QCOM WFD and switch to AOSP WFD to fix wifi display (cast)
+* Replace writepid with task_profiles command for cgroup migration
+* Switch to source side task_profiles
+* Update to latest BCR apk
+* Kernel: Enable CONFIG_WIREGUARD
+* Kernel: Enable CONFIG_USERFAULTFD
+* Kernel: Move 'struct sched_param' out of uapi, to work around glibc/musl breakage
+* Sync with latest sources
+
 Changelog 20250722
 LineageOS 22.2
 
