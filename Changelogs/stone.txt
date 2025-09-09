@@ -1,3 +1,15 @@
+Changelog 20250909
+LineageOS 22.2
+
+* September Security Patch
+* Revert back to in tree task profiles
+* Extend task profiles to add dex2oat and input latency optimizations
+* Properly set cpu architecture
+* Update dolby to latest version and also fix rare dolby crash
+* Update DFM on IChargingControl and IFastCharge
+* Cleanup postboot script
+* Sync with latest sources
+
 Changelog 20250816
 LineageOS 22.2
 
