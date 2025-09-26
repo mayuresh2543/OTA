@@ -1,3 +1,12 @@
+Changelog 20250926
+LineageOS 22.2
+
+* Switch to Global Blobs and update from OS2.0.4.0.UMQMIXM
+* Fix SMS not getting sent in some cases unless you reboot
+* Bring back Dirac from old tree (thanks kami for original implementation)
+* Reduce boost duration to 1.5s
+* Sync with latest sources
+
 Changelog 20250909
 LineageOS 22.2
 
