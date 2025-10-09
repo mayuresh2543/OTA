@@ -1,1 +1,11 @@
-Placeholder
+Changelog 20251009
+LineageOS 23.0
+
+* Initial Android 16 Build
+* CLEAN FLASH NEEDED
+* October Security Patch
+* Enabled new md3e flags (new ui)
+* Add OTA and launcher tweaks from A15
+* Fixed SMS not getting sent in some cases unless you reboot
+* Dirac, Dolby, Viper Included
+* Synced with latest sources
