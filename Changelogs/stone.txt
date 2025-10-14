@@ -1,3 +1,11 @@
+Changelog 20251014
+LineageOS 23.0
+
+* Fix Media thumbnails loading delay
+* Disable new UI flags from launcher (should fix most launcher related issues)
+* Clean Flash is recommended
+* Synced with latest sources
+
 Changelog 20251009
 LineageOS 23.0
 
