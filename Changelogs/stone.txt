@@ -1,3 +1,13 @@
+Changelog 20251031
+LineageOS 23.0
+
+* Switch to 5.4.300 8350 LOS kernel
+* Clean Flash is HIGHLY RECOMMENDED
+* Fix cpu governor being performance
+* Drop most of the parts
+* Update Viper4Android Driver and App
+* Synced with latest sources
+
 Changelog 20251014
 LineageOS 23.0
 
