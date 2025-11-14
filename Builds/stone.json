@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1761876000,
-      "filename": "lineage-23.0-20251031-UNOFFICIAL-stone.zip",
-      "id": "58c4e5c47c25e807ca1f5661279a4bc6bcf9b1de",
+      "datetime":1763082000,
+      "filename": "lineage-23.0-20251114-UNOFFICIAL-stone.zip",
+      "id": "5dae5ee4bc7bc46bff92109718abd9a7df6b8c93f",
       "romtype": "UNOFFICIAL",
-      "size": 1119854155,
-      "url": "https://github.com/mayuresh-releases/LineageOS_stone/releases/download/251031/lineage-23.0-20251031-UNOFFICIAL-stone.zip",
+      "size": 1120508479,
+      "url": "https://github.com/mayuresh-releases/LineageOS_stone/releases/download/251114/lineage-23.0-20251114-UNOFFICIAL-stone.zip",
       "version": "23.0"
     }
   ]
