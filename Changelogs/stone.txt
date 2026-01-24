@@ -1,3 +1,14 @@
+Changelog 20260124
+LineageOS 23.2
+
+* January Security Patch
+* Los23.2 based on QPR2
+* Needs clean flash
+* Switch to darkmoon kernel (thanks kami)
+* Tweak powerhint to be more efficient
+* Enable blur (keeping it disabled is recommended)
+* Synced with latest sources
+
 Changelog 20251114
 LineageOS 23.0
 
