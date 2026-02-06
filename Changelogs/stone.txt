@@ -1,3 +1,9 @@
+Changelog 20260206
+LineageOS 23.2
+
+* Ship necessary config needed for cts to work with gapps other than mtg
+* Synced with latest sources
+
 Changelog 20260204
 LineageOS 23.2
 
