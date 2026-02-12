@@ -1,3 +1,15 @@
+Changelog 20260212
+LineageOS 22.2
+
+* Initial A15 build after a while (yes A15)
+* February Security Patch
+* Optimize for balanced performance and efficiency
+* Trebuchet: Bring back double tap to sleep on homescreen
+* Trebuchet: Bring back clear all button in actions view
+* Fw/base: Add patch for hiding ADB and developer setting enable status
+* Fw/native: Suppress logspams
+* Art: Disable debug tracing
+
 Changelog 20250926
 LineageOS 22.2
 
@@ -92,4 +104,4 @@ LineageOS 22.2
 * May Security Patch
 * Add OTA
 * Enable LTO Optimizations
-* Build with source built oss kernel 
+* Build with source built oss kernel

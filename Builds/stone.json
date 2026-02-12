@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1758872400,
-      "filename": "lineage-22.2-20250926-UNOFFICIAL-stone.zip",
-      "id": "cb29dcd0cf981da9ecca69cde63fabb51216cac3",
+      "datetime": 1770858000,
+      "filename": "lineage-22.2-20260212-UNOFFICIAL-stone.zip",
+      "id": "3b91cd4e9daac2ef8543ac2edb440eb36a7163a6",
       "romtype": "UNOFFICIAL",
-      "size": 1072159649,
-      "url": "https://github.com/mayuresh-releases/LineageOS_stone/releases/download/250926/lineage-22.2-20250926-UNOFFICIAL-stone.zip",
+      "size": 1078961580,
+      "url": "https://github.com/mayuresh-releases/LineageOS_stone/releases/download/260212/lineage-22.2-20260212-UNOFFICIAL-stone.zip",
       "version": "22.2"
     }
   ]
