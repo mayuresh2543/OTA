@@ -1,3 +1,23 @@
+Changelog 20260401
+LineageOS 22.2
+
+* CLEAN FLASH REQUIRED
+* Use release-keys
+* Fix bluetooth crashing
+* Update blobs from OS2.0.9.0.UMQEUXM
+* Add GoogleSansFlex font
+* Update task_profiles from latest Android 15 release
+* Drop skiavk
+* More tweaks to powerhint for better efficiency and thermals
+* Shorten build number so less apps detect custom rom
+* Disable high performance transitions
+* Drop Dc Dimming and HBM (Support was already dropped from kernel)
+* Drop Zram Settings 
+* Drop Core Control
+* Optimized for balanced performance and efficiency
+* More source side patches for overall better performance
+* Synced with latest sources
+
 Changelog 20260212
 LineageOS 22.2
 
