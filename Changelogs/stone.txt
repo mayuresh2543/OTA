@@ -1,3 +1,15 @@
+Changelog 20260506
+LineageOS 23.2
+
+* May Security Patch
+* Switch to mq-deadline io scheduler
+* Introduce per-app-upscale (huge thanks to kami for impl)
+* Cleanup props and sepolicy
+* More powerhint tweaks for better performance
+* Merge latest upstream kernel changes
+* More misc changes
+* Synced with latest sources
+
 Changelog 20260321
 LineageOS 23.2
 
