@@ -1,0 +1,20 @@
+Changelog 20260610
+LineageOS 20.0
+
+* June 2026 Security Patch
+* Add OTA Support
+* Can dirty flash from my last build
+* Update Viper, BCR
+* Synced with latest sources
+
+Changelog 20250824
+LineageOS 20.0
+
+* Initial Build
+* August Security Patch
+* Add BCR
+* Add Viper4Android
+* Add MiuiCamera
+* Set proper cpu architecture
+* Add min/max refresh rate toggles
+* Synced with latest sources

@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1781107264,
+      "filename": "lineage-20.0-20260610-UNOFFICIAL-spes.zip",
+      "id": "b63b4a1a5106a3faf7d2e92a59870bda9bc057b73fcd44c9ff4a3ab437141354",
+      "romtype": "UNOFFICIAL",
+      "size": 1016536820,
+      "url": "https://github.com/mayuresh-releases/LineageOS_spes/releases/download/260610/lineage-20.0-20260610-UNOFFICIAL-spes.zip",
+      "version": "20.0"
+    }
+  ]
+}
