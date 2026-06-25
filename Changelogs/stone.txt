@@ -1,3 +1,19 @@
+Changelog 20260625
+LineageOS 23.2
+
+* June Security Patch
+* Drop unused props
+* Kang graphic blobs from xperia 10 V
+* Kang display blobs from fogos_g
+* Declare missing zram swapiness and algo
+* Merge latest LOS kernel changes
+* Cleanup kernel
+* Use bbr and fq
+* Improve storage I/O performance
+* Various kernel tweaks for better perf and battery
+* Various powerhint tweaks for better perf and battery
+* Synced with latest sources
+
 Changelog 20260506
 LineageOS 23.2
 
