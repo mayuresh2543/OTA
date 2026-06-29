@@ -1,3 +1,12 @@
+Changelog 20260629
+LineageOS 23.2
+
+* Switch to zstd ZRAM
+* Update in-kernel zstd to 1.5.7 (thanks kami)
+* More powerhint tweaks for even better battery and thermals
+* Fixed SUSTAINED_PERFORMANCE hint being stuck unless you reboot
+* Synced with latest sources
+
 Changelog 20260625
 LineageOS 23.2
 
