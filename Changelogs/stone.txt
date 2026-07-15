@@ -1,3 +1,16 @@
+Changelog 20260714
+LineageOS 23.2
+
+* July 2026 Security Update
+* Cleanup init.target.rc
+* Optimize memory management and scheduler
+* Bump FCM to 7
+* Fix permissionas and sepolicy related to cpu_dma_latency hint 
+* Fix network/ping issue in games
+* More powerhint tweaks for better thermals and efficiency
+* Add maintainer tag in settings because why not xd
+* Synced with latest sources
+
 Changelog 20260629
 LineageOS 23.2
 
