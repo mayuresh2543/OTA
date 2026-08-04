@@ -1,3 +1,19 @@
+Changelog 20260804
+LineageOS 23.2
+
+* August 2026 Security Patch
+* Drop LMKD and MGLRU
+* Switch to SLMK
+* Fully reworked kernel
+* Merge openela LTS changes 
+* Merge LOS kernel changes
+* Patch CVE-2026-43499
+* Cleanup props and parts
+* Drop debug dex2oat
+* Fix older apps not going full screen
+* Optimizations for better battery, thermals and performance
+* Synced with latest sources
+
 Changelog 20260714
 LineageOS 23.2
 
