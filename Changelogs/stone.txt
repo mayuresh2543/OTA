@@ -1,3 +1,25 @@
+Changelog 20260816
+LineageOS 23.2
+
+* Add 3 finger screenshot
+* Force GsansFlex on Lockscreen clock
+* Sepolicy: Fix android/data storage issue when flashing from twrp
+* Fw/base: Remove annoying data enable popup
+* Fw/base: Disable RescueParty
+* Fw/base: Disable Class0 SMS
+* Fw/base: Dismiss screenshot window on touch outside
+* Fw/base: Fix gms denials logspams
+* Fw/base: Wipe package cache on upgrade
+* Fw/base: Disable automatic system server heap dumps by default
+* Settings: Drop GPSU entry from firmware version
+* Vendor: Disable more gms components
+* Vendor: Remove seedvault and related overlays
+* Vendor: Disable debug logging on non-eng builds
+* Launcher: Reduce padding between app drawer pill and apps
+* Kernel: Rebased on latest LOS kernel
+* Kernel: Force compile with r596125 clang 22
+* Synced with latest sources
+
 Changelog 20260804
 LineageOS 23.2
 
