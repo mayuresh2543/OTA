@@ -1,3 +1,14 @@
+Changelog 20260818
+LineageOS 22.2
+
+* August 2026 Security Patch 
+* Add GoogleSansFlex font
+* Force GoogleSansFlex on lockscreen clock
+* Pick libperfmgr improvements from android 16
+* All the improvements from latest roms
+* Shorten build number
+* Remove hardcoded aspect ratio limits for older apps
+
 Changelog 20260401
 LineageOS 22.2
 
