@@ -1,3 +1,17 @@
+Changelog 20260910
+LineageOS 23.2
+
+* September 2026 Security Patch
+* Fully Reworked kernel
+* Force compile kernel with clang r614150
+* Switch to dynamic sensors hal
+* Switch to stock display blobs
+* Bring back Dc Dimming and HBM
+* Switch to lz4 zram
+* Drop Soundtrigger
+* Tweak rootdir files for efficiency
+* Synced with latest sources
+
 Changelog 20260816
 LineageOS 23.2
 
