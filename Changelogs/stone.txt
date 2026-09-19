@@ -1,3 +1,14 @@
+Changelog 20260918
+LineageOS 22.2
+
+* September 2026 Security Patch 
+* Bring back HBM and Dc Dimming
+* Switch to lz4 zram
+* Force compile kernel with r614150 clang
+* Drop Soundtrigger
+* Use dynamic sensors hal
+* Synced with latest sources
+
 Changelog 20260818
 LineageOS 22.2
 
