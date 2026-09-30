@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1789072381,
+    "datetime": 1790754510,
     "type": "UNOFFICIAL",
-    "version": "23.2",
+    "version": "24.0",
     "files": [
       {
-        "filename": "lineage-23.2-20260910-UNOFFICIAL-stone.zip",
-        "sha256": "c7e0eb00b306c0dc4f2115b9e6b7155c29fc63e65c4bcad72e574052e253144d",
-        "size": 1143282732,
-        "url": "https://github.com/mayuresh-releases/LineageOS_stone/releases/download/260910/lineage-23.2-20260910-UNOFFICIAL-stone.zip"
+        "filename": "lineage-24.0-20260930-UNOFFICIAL-stone.zip",
+        "sha256": "d9d600aed5bdaaa11d2d7f648580d8e564910fb1126c939a16f64f60caf46c8e",
+        "size": 1170359634,
+        "url": "https://github.com/mayuresh-releases/LineageOS_stone/releases/download/260930/lineage-24.0-20260930-UNOFFICIAL-stone.zip"
       }
     ]
   }
