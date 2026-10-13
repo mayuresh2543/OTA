@@ -1,3 +1,19 @@
+Changelog 20261013
+LineageOS 24.0
+
+* October 2026 Security Patch
+* Fix mic issue (Thanks kami)
+* Add Dolby
+* Drop datura firewall
+* Revert back to older zygote
+* Remove mobile data enable popup
+* Add face unlock
+* Add 3 finger screenshot
+* Spoof build as user
+* Drop adb_root
+* Spoof locked bl (not as strong as other roms but better than nothing)
+* Synced with latest sources
+
 Changelog 20260930
 LineageOS 24.0
 
