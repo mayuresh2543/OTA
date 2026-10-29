@@ -1,3 +1,12 @@
+Changelog 20261028
+LineageOS 22.2
+
+* October 2026 Security Patch
+* Rework parts ui
+* Drop datura firewall
+* Remove compromised emudhra certificates
+* Synced with latest sources
+
 Changelog 20260918
 LineageOS 22.2
 
