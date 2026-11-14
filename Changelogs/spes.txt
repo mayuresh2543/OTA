@@ -1,3 +1,13 @@
+Changelog 20261114
+LineageOS 20.0
+
+* November 2026 Security Patch
+* Drop Gamebar
+* Drop placebo LTO optimizations
+* Compile kernel with latest clang 23.0.1
+* Can dirty flash/OTA from my last build
+* Synced with latest sources
+
 Changelog 20260610
 LineageOS 20.0
 
