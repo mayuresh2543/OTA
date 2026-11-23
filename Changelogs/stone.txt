@@ -1,3 +1,16 @@
+Changelog 20261123
+LineageOS 24.0
+
+* Clean flash is highly recommended to avoid issues
+* November 2026 Security Patch
+* Fix low and suppressed in-call mic volume
+* Disable default frame rate limit in games
+* Revert Configure SQLite to operate in MEMORY mode
+* Update kernel to 5.4.305
+* Compile kernel with latest clang 23.0.1
+* Drop face unlock (was insecure)
+* Drop spoofs
+
 Changelog 20261013
 LineageOS 24.0
 
